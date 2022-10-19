@@ -18,7 +18,7 @@ The program injects a file into a startup shortcut, as soon as your victim start
 He can still delete it by pressing "windows +r" and "shell:startup".
 <br><br><br>
 </strong>
-<img src="" width="720", height="400">
+<img src="https://cdn.discordapp.com/attachments/1029508999709720651/1032322914332197014/unknown.png" width="720", height="400">
 </p>
 <br>
 
