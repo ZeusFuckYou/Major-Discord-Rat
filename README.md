@@ -35,7 +35,7 @@ For the program to work please follow this:
 <br>
  2) Find line 376, and replace "zeus" with the categories ID
 <br>
- 3) Find line 674, and replace "YOUR BOT TOKEN" by your bot token
+ 3) Find line 694, and replace "YOUR BOT TOKEN" by your bot token
  <br>
  4) Replace the file extension by pyw ( and not py )
 <br><br><br>
