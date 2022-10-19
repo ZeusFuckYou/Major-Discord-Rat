@@ -31,11 +31,11 @@ He can still delete it by pressing "windows +r" and "shell:startup".
 <strong>
 For the program to work please follow this:
 <br><br><br>
-* 1 Find line 372, and replace "zeus" with the server ID
+ 1) Find line 372, and replace "zeus" with the server ID
 <br>
-* 2 Find line 376, and replace "zeus" with the categories ID
+ 2) Find line 376, and replace "zeus" with the categories ID
 <br>
-* 3 Replace the file extension by pyw ( and not py )
+ 3) Replace the file extension by pyw ( and not py )
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/1029508999709720651/1032294565895479306/unknown.png" width="520", height="200">
