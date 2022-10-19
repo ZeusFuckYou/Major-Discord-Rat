@@ -41,6 +41,7 @@ For the program to work please follow this:
 <img src="https://cdn.discordapp.com/attachments/1029508999709720651/1032294565895479306/unknown.png" width="520", height="200">
 </p>
 <br>
+
 -----
 
 ### <p align="center"> Dependencies </p>
