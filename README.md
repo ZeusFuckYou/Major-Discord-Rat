@@ -35,7 +35,9 @@ For the program to work please follow this:
 <br>
  2) Find line 376, and replace "zeus" with the categories ID
 <br>
- 3) Replace the file extension by pyw ( and not py )
+ 3) Find line 674, and replace "YOUR BOT TOKEN" by your bot token
+ <br>
+ 4) Replace the file extension by pyw ( and not py )
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/1029508999709720651/1032294565895479306/unknown.png" width="520", height="200">
